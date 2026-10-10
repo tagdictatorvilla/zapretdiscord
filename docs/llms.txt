@@ -1,6 +1,6 @@
 # zapretdiscord
 
-Если Discord висит на Connecting, zapretdiscord поднимает голосовые и видео без стороннего туннеля.
+Обновлённая версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее
 
 Если Discord висит на Connecting, zapretdiscord поднимает голосовые и видео без стороннего туннеля. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
